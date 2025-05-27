@@ -11,12 +11,16 @@ PyCalc is a simple yet powerful Python calculator application featuring a sleek 
 - Clear (`Ac`), backspace (`⌫`), and equals (`=`) buttons for easy input correction and evaluation
 - Keyboard-friendly input and responsive button layout
 
+## 📸 Screenshot
+
+![Screenshot](./screenshots/image.png)
+
 ## Installation
 
 Clone the repository and install the package using pip:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/c-onfused69/pycalc.git
 cd pycalc
 pip install .
 ```

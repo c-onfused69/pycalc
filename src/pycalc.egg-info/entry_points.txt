@@ -1,0 +1,2 @@
+[console_scripts]
+pycalc = pycalc.__main__:main

@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/pycalc/__init__.py
+src/pycalc/__main__.py
+src/pycalc/calculator.py
+src/pycalc/gui.py
+src/pycalc.egg-info/PKG-INFO
+src/pycalc.egg-info/SOURCES.txt
+src/pycalc.egg-info/dependency_links.txt
+src/pycalc.egg-info/entry_points.txt
+src/pycalc.egg-info/top_level.txt
+tests/test_calculator.py

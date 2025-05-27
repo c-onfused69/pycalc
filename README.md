@@ -13,7 +13,7 @@ PyCalc is a simple yet powerful Python calculator application featuring a sleek 
 
 ## 📸 Screenshot
 
-![Screenshot](./screenshots/image.png)
+<img src="./screenshots/image.png" alt="Screenshot" width="400"/>
 
 ## Installation
 
